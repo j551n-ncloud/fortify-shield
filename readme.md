@@ -82,7 +82,7 @@ Fortify Shield is an advanced interactive security hardening tool designed to se
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/fortify-shield.git
+git clone https://github.com/j551n-ncloud/fortify-shield.git
 
 # Navigate to the directory
 cd fortify-shield
@@ -98,7 +98,7 @@ sudo ./fortify_shield.sh
 
 ```bash
 # Download the script
-curl -O https://raw.githubusercontent.com/yourusername/fortify-shield/main/fortify_shield.sh
+curl -O https://raw.githubusercontent.com/j551n-ncloud/fortify-shield/main/fortify_shield.sh
 
 # Make the script executable
 chmod +x fortify_shield.sh
